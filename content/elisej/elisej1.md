@@ -36,8 +36,4 @@ draft: false
          s32="/img/elisej/ris/IMG_20220308_091709.jpg" sr32="/img/elisej/ris/IMG_20220308_091709_result.jpg"
          s33="/img/elisej/ris/IMG_20211226_192724.jpg" sr33="/img/elisej/ris/IMG_20211226_192724_result.jpg"
          s34="/img/elisej/ris/PANO_20220126_114216.jpg" sr34="/img/elisej/ris/PANO_20220126_114216_result.jpg"
-         s35="/img/elisej/ris/SAVE_20190108_243905.jpeg" sr35="/img/elisej/ris/SAVE_20190108_243905_result.jpg"
-
-
-
- >}}
+         s35="/img/elisej/ris/SAVE_20190108_243905.jpeg" sr35="/img/elisej/ris/SAVE_20190108_243905_result.jpg" >}}
