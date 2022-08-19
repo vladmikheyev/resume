@@ -1,6 +1,5 @@
 ---
-title: "ЕЛИСЕЙ"
-date: 2022-08-13T19:05:30+03:00
+title: "ЕЛИСЕЙ - РИСУНКИ"
 draft: false
 ---
 {{< fbox s0="/img/elisej/ris/IMG_20210319_174943.jpg" sr0="/img/elisej/ris/IMG_20210319_174943_result.jpg"
