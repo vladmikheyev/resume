@@ -3,4 +3,6 @@ title: "ПАПА"
 date: 2022-08-10
 draft: false
 ---
-{{<button2>}}
+{{< talan >}}
+
+{{< talan0 >}}
