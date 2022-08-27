@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://10.0.20.32:55555/posts/</loc>
+    <lastmod>2022-08-14T13:55:42+03:00</lastmod>
+  </url><url>
+    <loc>http://10.0.20.32:55555/</loc>
+    <lastmod>2022-08-14T13:55:42+03:00</lastmod>
+  </url><url>
+    <loc>http://10.0.20.32:55555/posts/roditeli/</loc>
+    <lastmod>2022-08-14T13:55:42+03:00</lastmod>
+  </url><url>
+    <loc>http://10.0.20.32:55555/posts/nikita/</loc>
+    <lastmod>2022-08-13T19:05:30+03:00</lastmod>
+  </url><url>
+    <loc>http://10.0.20.32:55555/posts/daniil/</loc>
+    <lastmod>2022-08-12T19:05:30+03:00</lastmod>
+  </url><url>
+    <loc>http://10.0.20.32:55555/posts/elisej/</loc>
+    <lastmod>2022-08-11T19:05:30+03:00</lastmod>
+  </url><url>
+    <loc>http://10.0.20.32:55555/posts/mama/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://10.0.20.32:55555/posts/papa/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://10.0.20.32:55555/categories/</loc>
+  </url><url>
+    <loc>http://10.0.20.32:55555/elisej/</loc>
+  </url><url>
+    <loc>http://10.0.20.32:55555/tags/</loc>
+  </url><url>
+    <loc>http://10.0.20.32:55555/elisej/elisej1/</loc>
+  </url>
+</urlset>

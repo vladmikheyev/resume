@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ДОМСАЙТ</title>
+    <link>http://10.0.20.32:55555/</link>
+    <description>Recent content on ДОМСАЙТ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Aug 2022 13:55:42 +0300</lastBuildDate><atom:link href="http://10.0.20.32:55555/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>РОДИТЕЛИ</title>
+      <link>http://10.0.20.32:55555/posts/roditeli/</link>
+      <pubDate>Sun, 14 Aug 2022 13:55:42 +0300</pubDate>
+      
+      <guid>http://10.0.20.32:55555/posts/roditeli/</guid>
+      <description>ПРИВЕТ
+.buttons {display: flex;width: 580px;gap: 10px;--b: 5px;--h: 1.8em;}.buttons button {--_c: #88C100;flex: calc(1.25 + var(--_s, 0));min-width: 0;font-size: 40px;font-weight: bold;height: var(--h);cursor: pointer;color: var(--_c);border: var(--b) solid var(--_c);background:conic-gradient(at calc(100% - 1.3*var(--b)) 0, var(--_c) 209deg, #0000 211deg) border-box;clip-path: polygon(0 0, 100% 0, calc(100% - 0.577*var(--h)) 100%, 0 100%);padding: 0 calc(0.288*var(--h)) 0 0;margin: 0 calc(-0.</description>
+    </item>
+    
+    <item>
+      <title>НИКИТА</title>
+      <link>http://10.0.20.32:55555/posts/nikita/</link>
+      <pubDate>Sat, 13 Aug 2022 19:05:30 +0300</pubDate>
+      
+      <guid>http://10.0.20.32:55555/posts/nikita/</guid>
+      <description>@import url(https://fonts.googleapis.com/css?family=Open+Sans:400|Raleway:300);html {padding-top: 50px;font-family: &#34;Open Sans&#34;, Helvetica, arial, sans-serif;text-align: center;background-color: #eeeeee;}html *,html *:before,html *:after {box-sizing: border-box;transition: 0.5s ease-in-out;}html i,html em,html b,html strong,html span {transition: none;}*:before,*:after {z-index: -1;}h1,h4 {font-family: &#34;Raleway&#34;, &#34;Open Sans&#34;, sans-serif;margin: 0;line-height: 1;}a {text-decoration: none;line-height: 80px;color: black;}.</description>
+    </item>
+    
+    <item>
+      <title>ДАНИИЛ</title>
+      <link>http://10.0.20.32:55555/posts/daniil/</link>
+      <pubDate>Fri, 12 Aug 2022 19:05:30 +0300</pubDate>
+      
+      <guid>http://10.0.20.32:55555/posts/daniil/</guid>
+      <description>@import url(https://fonts.googleapis.com/css?family=Open+Sans:400|Raleway:300);html {padding-top: 50px;font-family: &#34;Open Sans&#34;, Helvetica, arial, sans-serif;text-align: center;background-color: #eeeeee;}html *,html *:before,html *:after {box-sizing: border-box;transition: 0.5s ease-in-out;}html i,html em,html b,html strong,html span {transition: none;}*:before,*:after {z-index: -1;}h1,h4 {font-family: &#34;Raleway&#34;, &#34;Open Sans&#34;, sans-serif;margin: 0;line-height: 1;}a {text-decoration: none;line-height: 80px;color: black;}.</description>
+    </item>
+    
+    <item>
+      <title>ЕЛИСЕЙ</title>
+      <link>http://10.0.20.32:55555/posts/elisej/</link>
+      <pubDate>Thu, 11 Aug 2022 19:05:30 +0300</pubDate>
+      
+      <guid>http://10.0.20.32:55555/posts/elisej/</guid>
+      <description>@import url(https://fonts.googleapis.com/css?family=Open+Sans:400|Raleway:300);html {padding-top: 50px;font-family: &#34;Open Sans&#34;, Helvetica, arial, sans-serif;text-align: center;background-color: #eeeeee;}html *,html *:before,html *:after {box-sizing: border-box;transition: 0.5s ease-in-out;}html i,html em,html b,html strong,html span {transition: none;}*:before,*:after {z-index: -1;}h1,h4 {font-family: &#34;Raleway&#34;, &#34;Open Sans&#34;, sans-serif;margin: 0;line-height: 1;}a {text-decoration: none;line-height: 80px;color: black;}.</description>
+    </item>
+    
+    <item>
+      <title>МАМА</title>
+      <link>http://10.0.20.32:55555/posts/mama/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://10.0.20.32:55555/posts/mama/</guid>
+      <description>@import url(https://fonts.googleapis.com/css?family=Open+Sans:400|Raleway:300);html {padding-top: 50px;font-family: &#34;Open Sans&#34;, Helvetica, arial, sans-serif;text-align: center;background-color: #eeeeee;}html *,html *:before,html *:after {box-sizing: border-box;transition: 0.5s ease-in-out;}html i,html em,html b,html strong,html span {transition: none;}*:before,*:after {z-index: -1;}h1,h4 {font-family: &#34;Raleway&#34;, &#34;Open Sans&#34;, sans-serif;margin: 0;line-height: 1;}a {text-decoration: none;line-height: 80px;color: black;}.</description>
+    </item>
+    
+    <item>
+      <title>ПАПА</title>
+      <link>http://10.0.20.32:55555/posts/papa/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://10.0.20.32:55555/posts/papa/</guid>
+      <description>.heading {font-family: &#34;Aboreto&#34;, serif;font-size: 10vw;}.subheading {font-family: &#34;Aboreto&#34;, sans-serif;font-size: 1em;line-height: 1.5;}@media screen and (min-width: 40em) {body {width: 50%;}.heading {font-size: 6vw;}.subheading {font-size: 1.75vw;}}.underline--magical {background-image: linear-gradient(20deg, #008cba 0%, #008cba 100%);background-repeat: no-repeat;background-size: 100% 0.1em;background-position: 0 88%;transition: background-size 0.25s ease-in;}.underline--magical:hover {background-size: 100% 88%;}*,*:before,*:after {box-sizing: border-box;margin: 0;padding: 0;}body {background-image: url(/img/papa/obsh.</description>
+    </item>
+    
+    <item>
+      <title>ЕЛИСЕЙ - РИСУНКИ</title>
+      <link>http://10.0.20.32:55555/elisej/elisej1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://10.0.20.32:55555/elisej/elisej1/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

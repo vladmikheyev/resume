@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://10.0.20.32:55555/'
 languageCode = 'en-us'
 title = 'ДОМСАЙТ'
 theme = 'elephants'
